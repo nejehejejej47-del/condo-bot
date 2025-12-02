@@ -10,8 +10,7 @@ intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 # ⇣ LINK QUE EU ATUALIZO TODA HORA ⇣ (nunca mais precisa mexer)
-CONDO_PASTEBIN = "https://pastebin.com/raw/5uV3iL2k"
-
+https://pastebin.com/raw/8fK2mN3p
 TRIGGERS = [
     "condo", "con do", "condos", "scented", "scentedcon", "scented con",
     "private", "dress", "18+", "free condo", "new condo", "condo up",
