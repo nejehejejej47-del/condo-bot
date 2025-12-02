@@ -78,5 +78,3 @@ async def on_message(message):
 # SEU TOKEN AQUI ⇣⇣⇣
 import os
 bot.run(os.getenv("TOKEN"))
-requirements.txtdiscord.py==2.3.2
-aiohttp==3.9.1
